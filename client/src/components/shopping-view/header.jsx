@@ -1,7 +1,7 @@
 function ShoppingHeader() {
     return ( 
         <div>
-
+            shoppping view 
         </div>
      );
 }
